@@ -1,0 +1,10 @@
+Inicialmente para criar um projeto 
+
+
+1) Inicia-se a APi com "npm ini" dentro do Projeto;
+
+2) Preencha os campos necessários;
+
+3) instale o express com 'npm install express --save' // --save salva no "package.json" como dependencia
+
+4) Crie um arquivo 'server.js'
